@@ -8,7 +8,6 @@ import java.util.Properties;
 
 import com.examenfinal.medicos.domain.entity.Medico;
 import com.examenfinal.medicos.domain.service.MedicoService;
-import com.examenfinal.pacientes.domain.entity.Paciente;
 
 public class MedicoRepository implements MedicoService {
     private Connection connection;
